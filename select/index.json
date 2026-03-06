@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハイブランド（feat. サーヤ）",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-03-06T10:46:36.573706Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイブランド (feat. サーヤ) [Remix]",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_ハイブランド_(feat._サーヤ)_[Remix]_SKRYU.txt"
+    }
+  ]
+}
